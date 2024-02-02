@@ -1,0 +1,36 @@
+.first-bg-color{
+    background-color: #212224;
+    min-height: 100vh;
+    padding: 0 6rem;
+}
+.search_color{
+    background-color: #28292b !important;
+}
+.search_input{
+    position: absolute;
+    color: white;
+    top: 11px;
+    left: 11px;
+}
+input::placeholder{
+    padding-left: 1.3rem !important;
+}
+.profile{
+    padding: 5px 18px;
+    background:#28292b !important;
+    border-radius: 24px;
+}
+.second-bg-color{
+    background-color: #28292b;
+     min-height:100vh ;
+     padding: 4rem;
+     border-radius: 25px;
+}
+.button{
+    background-color:#df5d8b ;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    padding: 6px;
+    color: white;
+}
